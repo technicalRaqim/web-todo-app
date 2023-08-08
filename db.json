@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "name": "Raq",
+      "email": "mohd@ansari",
+      "phone": "9318362693",
+      "id": 10
+    },
+    {
+      "name": "ansari",
+      "email": "mohd",
+      "phone": "987456",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "Raqim Ansari",
+      "email": "mohd786raqim@gmail.com",
+      "phone": "09318362693",
+      "active": true,
+      "id": 12
+    }
+  ]
+}
